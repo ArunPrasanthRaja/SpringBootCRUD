@@ -10,6 +10,7 @@ public class Testing implements TestInterface{
 	}*/
 	
 	public static void main(String args[]){
+		System.out.println(TestInterface.isNullj("Developer1"));
 		//Testing obj = new Testing();
 		//String s =obj.print("ddd");
 		//Boolean b=obj.isNull("abc");
